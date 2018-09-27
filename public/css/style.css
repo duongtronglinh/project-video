@@ -1,0 +1,163 @@
+.form-login {
+    margin: auto;
+    width: 500px;
+}
+.form-login table {
+    width: 100%;
+}
+.text-right {
+    text-align: right;
+    padding-right: 10px !important;
+}
+.text-center {
+    text-align: center;
+}
+.form-login td {
+    padding: 5px 0;
+    font-size: 20px;
+}
+.form-login button {
+    padding: 5px;
+    font-size: 18px;
+    text-align: center;
+    border-radius: 3px;
+}
+.form-login input {
+    height: 35px;
+    width: 90%;
+    border-radius: 2px;
+    padding: 3px;
+}
+.form-login input[type="checkbox"] {
+    width: 18px;
+    height: 18px;
+}
+.form-login h3 {
+    margin-top: 5px;
+}
+.form-login ul {
+    list-style: none;
+    padding-left: 0px;
+}
+.form-login label {
+    font-size: 19px;
+}
+.navbar-collapse label {
+    color: white;
+    padding: 16px 5px 16px 0px;
+    margin-bottom: 0px;
+}
+.navbar-collapse img {
+    height: 20px;
+    width: 30px;
+}
+.navbar-collapse .active a {
+    display: inline;
+    padding: 0px;
+}
+.selected_language {
+    border: 1px solid white;
+}
+.navbar-inverse ul li a {
+    font-weight: bold;
+    padding-top: 16px;
+    padding-right: 16px;
+}
+.navbar-right .management {
+    padding: 16px 0px;
+}
+.navbar-right .dropdown {
+    padding: 0 15px;
+}
+.navbar-right li label {
+    padding: 16px 15px;
+}
+a, label {
+    cursor: pointer;
+}
+.title {
+    color: orange;
+    text-transform: uppercase;
+    font-weight: bold;
+    margin-top: 10px;
+    text-align: center;
+}
+.dropdown-menu li a {
+    padding: 5px !important;
+}
+.edit_user, .add-video {
+    padding: 15px 0;
+}
+.edit_user input, .add-user input, .add-user select, .add-video input {
+    margin-bottom: 15px;
+}
+.edit_user span, .add-user span, .add-video span {
+    color: red;
+    margin-left: 20px;
+}
+table {
+    font-size: 17px;
+}
+.modal-header .title {
+    margin-top: 0px;
+}
+.div-edit-user, .div-add-video {
+    background-color: lavender;
+}
+.heading-add-folder button {
+    margin-left: 5px !important;
+}
+.add-folder input {
+    width: 40%;
+    padding: 5px;
+    margin: 5px;
+    border-radius: 2px;
+}
+.add-folder {
+    margin-bottom: 15px;
+}
+.table-folder .value-folder {
+    padding: 13px !important;
+}
+.table-folder th {
+    text-align: center;
+}
+.td-button-folder {
+    width: 60px;
+}
+.border-red {
+    border: 2px solid red !important;
+}
+.heading-add-folder label, .heading-add-video label {
+    font-size: 18px !important;
+    margin-top: 5px;
+}
+img.folder-icon {
+    width: 33px;
+    height: 26px;
+}
+.user-permission input[type="checkbox"] {
+    height: 25px;
+    width: 25px;
+}
+input[name="checkbox_folder"], input[name="checkbox_video"] {
+    height: 20px;
+    width: 20px;
+}
+.glyphicon-triangle-bottom, .glyphicon-triangle-top {
+    cursor: pointer;
+}
+img.thumbnail {
+    height: 70px;
+    width: 100px;
+    margin: 10px 20px;
+}
+.td-no-video {
+    padding-top: 40px !important;
+}
+.td-no-video-button {
+    padding-top: 35px !important;
+}
+.td-no-video-button button, .td-no-video-button form {
+    display: inline;
+}
